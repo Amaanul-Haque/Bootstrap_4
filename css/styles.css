@@ -126,7 +126,7 @@ body{
     margin:5px;
 }
 
-@media(max-width:600px)
+@media(max-width:1280px)
 {
     #title{
         text-align: center;
